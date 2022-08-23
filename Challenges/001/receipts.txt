@@ -1,0 +1,8 @@
+INDIVIDUAL_ASCENDING = sorted by individual item price ascending
+INDIVIDUAL_DESCENDING = sorted by individual item price descending
+DEAL_ASCENDING = sorted by deal price (if no deal price then by normal price) ascending
+DEAL_DESCENDING = sorted by deal price (if no deal price then by normal price) descending
+ALPHABETICAL_ASCENDING = sorted alphabetically
+ALPHABETICAL_DESCENDING = sorted reverse-alphabetically
+TYPE_ASCENDING = sorted by item type alphabetically
+TYPE_DESCENDING = sorted by item type reverse-alphabetically

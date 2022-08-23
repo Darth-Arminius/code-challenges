@@ -1,0 +1,14 @@
+Name, Type, Price, Special deal(s)
+Apple, Fruit, £0.50, N/A
+Banana, Fruit, £1.00, £0.75 if you buy 2 apples
+Bread, Grains, £1.50, £1.00 if you buy 3 of any fruit
+Beer, Alcohol, £5.00, £3.00 if you buy a ready meal
+Chocolate, Confectionary, £2.00, £1.50 if you buy 2 more chocolate
+Cream, Dairy, £1.50, £0.75 if you buy 2 strawberries
+Deluxe dessert for 2, Dessert, £3.50, £3.00 if you buy wine and a deluxe meal for 2
+Deluxe meal for 2, Ready meal, £6.00, £5.00 if you buy wine and a deluxe dessert for 2
+Microwave curry, Ready meal, £1.50, £1.00 if you buy beer
+Milk, Dairy, £1.00, N/A
+Strawberries, Fruit, £2.00, £1.50 if you buy any type of Dairy
+Sweets, Confectionary, £1.75, £1.00 if you buy any more sweets
+Wine, Alcohol, £8.00, £5.00 if you buy a deluxe meal for 2 and a deluxe dessert for 2

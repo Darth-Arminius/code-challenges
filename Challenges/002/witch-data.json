@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Hermione Granger",
+    "ingredients": [
+      "Eerie Buttons",
+      "Demon Horn",
+      "Yeti Fur",
+      "Luminous Broadleaf",
+      "Nether Bloom",
+      "Centaur Shell",
+      "Wyvern Liver"
+    ]
+  },
+  {
+    "name": "Esmeralda Digby",
+    "ingredients": [
+      "Demon Horn",
+      "Plague Brass",
+      "Fury Boxwood",
+      "Cinder Buxus"
+    ]
+  },
+  {
+    "name": "Ailey Naxxremis",
+    "ingredients": [
+      "Demon Horn",
+      "Jackalope Infusion",
+      "Wyvern Flesh",
+      "Basilisk Nail",
+      "Angel Flesh",
+      "Centaur Shell",
+      "Phoenix Tongue",
+      "Candied Brier",
+      "Red Blossom",
+      "Passion Blight"
+    ]
+  },
+  {
+    "name": "River Diamond",
+    "ingredients": ["Demon Horn", "Chaos Borage"]
+  },
+  {
+    "name": "Clover Latimer",
+    "ingredients": ["Basilisk Nail", "Luminous Broadleaf"]
+  },
+  {
+    "name": "Rowena Storm",
+    "ingredients": ["Peter Pants", "Peter Pants", "Peter Pants"]
+  },
+  {
+    "name": "Ametrine Lynx",
+    "ingredients": [
+      "Luminous Broadleaf",
+      "Yeti Fur",
+      "Mound Broadleaf",
+      "Jackalope Infusion",
+      "Plague Brass",
+      "Blue Buttons",
+      "Basilisk Scale",
+      "Lover Blade"
+    ]
+  },
+  {
+    "name": "Medusa Caligari",
+    "ingredients": [
+      "Wyvern Liver",
+      "Yeti Fur",
+      "Cerberus Collar",
+      "Blue Buttons",
+      "Nether Bloom"
+    ]
+  },
+  {
+    "name": "Faye Breedlove",
+    "ingredients": [
+      "Faun Fur",
+      "Phoenix Tongue",
+      "Luminous Broadleaf",
+      "Fury Boxwood",
+      "Mound Broadleaf",
+      "Passion Blight",
+      "Dryad Heart",
+      "Bugbear Extract",
+      "Peter Pants",
+      "Cyclops Extract"
+    ]
+  },
+  {
+    "name": "Maude Woods",
+    "ingredients": [
+      "Angel Flesh",
+      "Basilisk Nail",
+      "Basilisk Scale",
+      "Behemoth Claw",
+      "Bloat Cabbage",
+      "Blue Buttons",
+      "Bugbear Extract",
+      "Candied Brier",
+      "Centaur Shell",
+      "Cerberus Collar",
+      "Chaos Borage",
+      "Chimera Tail",
+      "Cinder Buxus",
+      "Corrupt Brittlebush",
+      "Corrupted Bush",
+      "Cyclops Extract",
+      "Demon Essence",
+      "Demon Horn",
+      "Drake Dust",
+      "Dryad Heart",
+      "Eerie Buttons",
+      "Fatal Brick",
+      "Faun Fur",
+      "Fury Boxwood",
+      "Ghost Ichor",
+      "Humming Bush",
+      "Jackalope Infusion",
+      "Lover Blade",
+      "Luminous Broadleaf",
+      "Merman Strand",
+      "Minotaur Hair",
+      "Mound Broadleaf",
+      "Nether Bloom",
+      "Ogre Snot",
+      "Passion Blight",
+      "Peter Pants",
+      "Phoenix Tongue",
+      "Plague Brass",
+      "Red Blossom",
+      "Roc Oil",
+      "Satyr Tear",
+      "Serpent Feather",
+      "Shadow Bronze",
+      "Sphinx Tear",
+      "Tengu Sweat",
+      "Werewolf Essence",
+      "Wolpertinger Fang",
+      "Wyvern Flesh",
+      "Wyvern Liver",
+      "Yeti Fur"
+    ]
+  }
+]
